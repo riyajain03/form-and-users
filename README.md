@@ -1,8 +1,7 @@
 # form-and-users
 Made form where we can add, update, fetch and delete users. Also Added UI for same using Chakra UI.
-
-#### Download Video 
-[Download and Watch the video](https://github.com/riyajain03/form-and-users/blob/main/form-and-users.mp4)
+ 
+#### [Watch the video](https://youtu.be/RObLr7ILaoU)
 
 ### Setup
 
